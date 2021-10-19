@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e78e93b1-9061-4998-9881-8270c3f8420d" name="yolov5">
+        <fileTransfer rootFolder="/remote-home/my" accessType="SFTP" host="210.16.180.213" port="35983" sshConfigId="987f31ae-339f-4aea-ab45-5417dea8e11a" sshConfig="lzhang@210.16.180.213:35983 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
