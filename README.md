@@ -1,8 +1,6 @@
 this a machine learning final project
 
-#### More information please refer to 
-
-[here]: https://zhangle.netlify.app/project/machine-learning/
+#### More information please refer to  [here]: https://zhangle.netlify.app/project/machine-learning/
 
 
 
